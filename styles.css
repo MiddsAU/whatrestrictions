@@ -1,0 +1,13 @@
+*{
+    font-weight: lighter;
+}
+
+body{
+    background-color: aqua;
+}
+
+
+#maintitle {
+    position: relative;
+    left: 1%;
+}

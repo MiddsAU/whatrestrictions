@@ -8,6 +8,16 @@ body{
 
 
 #maintitle {
+    text-align: left;
     position: relative;
-    left: 1%;
+    padding-left: 20px;
+    padding-top: 10px;
 }
+
+#countryname {
+    text-align: right;
+    position: relative;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
